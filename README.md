@@ -3,7 +3,7 @@ Typescriptで書かれていて、IMEの変換に対しての制御もされて�
 SUPABASEをpodmanのようなコンテナツールを使い起動することで保存も可能にしています。
 
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
 
 ## Getting Started
 
